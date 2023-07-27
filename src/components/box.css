@@ -1,0 +1,52 @@
+.box{
+    align-items: center;
+    display: flex;
+    max-height: 613px;
+    width: 1125px;
+    /* background-color: green; */
+    position: absolute;
+    top: 152px;
+    left: 157px;
+}
+.col1{
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+}
+.part1{
+    width: 605px;
+    height: 306px;
+}
+h1{
+    font-size: 100px;
+    line-height: 96px;
+    letter-spacing: -2px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.shoe{
+    width: 530px;
+    height: 487px;
+}
+
+.part3{
+    display: flex;
+    width: 331px;
+    height: 41px;
+    gap: 40px;
+}
+
+.part2{
+    width: 404px;
+    height: 91px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #5A5959;
+
+}
+
+.layout{
+    margin-right: 16px;
+    margin-top: 16px;
+}

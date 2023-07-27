@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 72px;
+}
+ul{
+    display: flex;
+    font-size: 16px;
+    line-height: 24px;
+    gap: 24px;
+    color:#2E2E2E;
+    text-transform: uppercase;
+    font-weight: 600;
+    list-style: none;
+    margin-top: 24px;
+}
+.brand{
+    margin-left: 85px;
+    margin-top: 15px;
+    width: 76px;
+    height: 42.75px;
+}
+.login{
+    margin-top: 21px;
+    /* position: relative;  */
+    margin-right: 70px;
+    width: 75px;
+    height: 31px;
+    border: none;
+    top: 21px;
+    left: 1286px;
+    padding: 6px 16px 6px 16px;
+    background-color: #D01C28;
+    color: white;
+    font-size: 16px;
+    gap: 10px;
+
+}
